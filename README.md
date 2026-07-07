@@ -75,7 +75,7 @@ TicTacToe/
 ### Clone the repository
 
 ```bash
-https://github.com/riyamishra0226/TicTacToe.git
+git clone https://github.com/riyamishra0226/TicTacToe.git
 ```
 
 ### Navigate to the project folder
@@ -116,7 +116,7 @@ Open **index.html** in your browser, or use **Live Server** in Visual Studio Cod
 
 **Riya Mishra**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/riyamishra0226
 
 ---
 
