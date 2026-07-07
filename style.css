@@ -1,0 +1,155 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+h1{
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+}
+
+body{
+    background-color: #F8D9CC;
+    align-items: center;
+}
+
+
+.container{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+    background-color:#e5abc0;
+    padding: 0.75rem;
+    border-radius: 1.125rem;
+    box-shadow:0 0.625rem 1.5625rem rgba(0,0,0,.12);
+
+}
+
+.box{
+    height: 16vmin;
+    width: 16vmin;
+    border-radius: 1rem;
+    border: none;
+    background-color: #d37b9f;
+    color:#B9CFD4;
+    font-size: 8vmin;
+    
+}
+
+.box:hover{
+    transform:scale(1.05);
+    transition:0.2s;
+    cursor:pointer;
+}
+
+.buttons{
+    display:flex;
+    justify-content:center;
+    gap:1rem;
+    margin-top:1.5rem;
+}
+
+#reset-btn, #new-btn{
+    padding:0.8rem 1.5rem;
+    border:none;
+    border-radius:0.75rem;
+    background:#2C3040;
+    color:white;
+    font-size:1rem;
+    cursor:pointer;
+    transition:0.2s;
+    min-width: 10rem;
+}
+
+
+#reset-btn:hover, #new-btn:hover{
+    background:#434865;
+    transform:translateY(-2px);
+}
+
+.winner-container{
+    background-color: #EAF8EA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 58vmin;
+    margin: 1.5rem auto;
+    padding: 1rem 1.5rem;
+    border: 2px solid #6CBF6C;
+    border-radius: 1rem;
+    box-shadow: 0 0.5 rem 1.2rem rgba(0,0,0,.12);
+
+}
+
+.trophy{
+    font-size: 2rem;
+} 
+
+#winner-name{
+    color:#2E8B57;
+    margin:0;
+    font-size:1.8rem;
+}
+
+#congrats{
+    margin:0;
+    color:#4F4F4F;
+    font-size:1rem;
+}
+
+.hide{
+    display:none;
+}
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+
+    h1{
+        font-size: 3rem;
+    }
+
+    .container{
+        height: auto;
+        padding: 2rem 0;
+    }
+
+    .game{
+        width: 90vmin;
+        height: 90vmin;
+        gap: 2vmin;
+    }
+
+    .box{
+        width: 28vmin;
+        height: 28vmin;
+        font-size: 10vmin;
+    }
+
+    .winner-container{
+        width: 90%;
+        padding: 1rem;
+    }
+
+    #winner-name{
+        font-size: 2rem;
+    }
+
+    #reset-btn,
+    #new-btn{
+        width: 12rem;
+        font-size: 1rem;
+    }
+}
