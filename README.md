@@ -75,7 +75,7 @@ TicTacToe/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-github-username/tic-tac-toe.git
+https://github.com/riyamishra0226/TicTacToe.git
 ```
 
 ### Navigate to the project folder
