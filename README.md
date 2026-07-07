@@ -6,25 +6,17 @@ A responsive and interactive Tic Tac Toe game built using **HTML**, **CSS**, and
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+### Home Screen
+<img src="tictactoe_ss1.png" alt="Home Screen" width="700"/>
 
-![Home Screen](<img width="1913" height="912" alt="tictactoe_ss1" src="https://github.com/user-attachments/assets/4c11a641-c691-4fbd-92e7-bd2ca5ee2d89" />
-)
+### Gameplay Screen
+<img src="tictactoe_ss2.png" alt="Gameplay Screen" width="700"/>
 
-### 🎮 Gameplay
+### Winner Screen
+<img src="tictactoe_ss3.png" alt="Winner Screen" width="700"/>
 
-![Gameplay](<img width="1915" height="907" alt="tictactoe_ss2" src="https://github.com/user-attachments/assets/fcf4eb49-af87-492b-884c-48e0783d0cec" />
-)
-
-### 🏆 Winner Screen
-
-![Winner Screen](<img width="1896" height="907" alt="tictactoe_ss3" src="https://github.com/user-attachments/assets/df4988b5-a098-4218-a4ba-cb91456af78a" />
-)
-
-### 🤝 Draw Screen
-
-![Draw Screen](<img width="1898" height="908" alt="tictactoe_ss4" src="https://github.com/user-attachments/assets/22aed836-4af1-42c7-b005-ec90669d37ed" />
-)
+### Draw Screen
+<img src="tictactoe_ss4.png" alt="Draw Screen" width="700"/>
 
 ---
 
