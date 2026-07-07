@@ -7,6 +7,10 @@
 
 A responsive and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. The game features a modern pastel-themed interface, winner detection, draw detection, and options to reset or start a new game.
 
+## 🌐 Live Demo
+
+🔗 https://riyamishra0226.github.io/TicTacToe/
+
 ---
 
 ## 📸 Screenshots
