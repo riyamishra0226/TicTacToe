@@ -1,5 +1,10 @@
 # 🎮 Tic Tac Toe
 
+![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+
 A responsive and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. The game features a modern pastel-themed interface, winner detection, draw detection, and options to reset or start a new game.
 
 ---
