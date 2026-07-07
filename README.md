@@ -47,12 +47,11 @@ A responsive and interactive Tic Tac Toe game built using **HTML**, **CSS**, and
 
 ```
 TicTacToe/
-│
-├── screenshots/
-│   ├── home.png
-│   ├── gameplay.png
-│   ├── winner.png
-│   └── draw.png
+│── screenshots/
+│   ├── tictactoe_ss1.png
+│   ├── tictactoe_ss2.png
+│   ├── tictactoe_ss3.png
+│   └── tictactoe_ss4.png
 │
 ├── index.html
 ├── style.css
